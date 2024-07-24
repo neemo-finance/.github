@@ -15,7 +15,7 @@ When users deposit on Neemo Finance, they get nsASTR, a non-rebasing token that 
 You can check out our community here: 
 
 - Website : https://neemo.finance/
-- Twitter : @neemofinance
+- Twitter : https://x.com/neemofinance
 - Discord : https://discord.com/invite/Mv7a9sunXh
 - Blog : https://medium.com/@neemo_fi
 
